@@ -40,6 +40,7 @@ console.log("Es 3 ", 12 + 20);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 x = 12;
+console.log("Es 4", x);
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
